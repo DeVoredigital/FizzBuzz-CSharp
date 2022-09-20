@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\FizzBuzz_MVC\\FizzBuzz_MVC\\FizzBuzz_MVC.csproj",
+      "projectUniqueName": "D:\\Git\\GitHub\\FizzBuzz-CSharp\\FizzBuzz_MVC\\FizzBuzz_MVC.csproj",
       "projectName": "FizzBuzz_MVC",
-      "projectPath": "C:\\dev\\FizzBuzz_MVC\\FizzBuzz_MVC\\FizzBuzz_MVC.csproj",
+      "projectPath": "D:\\Git\\GitHub\\FizzBuzz-CSharp\\FizzBuzz_MVC\\FizzBuzz_MVC.csproj",
       "packagesPath": "C:\\Users\\lokic\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\FizzBuzz_MVC\\FizzBuzz_MVC\\obj\\",
+      "outputPath": "D:\\Git\\GitHub\\FizzBuzz-CSharp\\FizzBuzz_MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lokic\\AppData\\Roaming\\NuGet\\NuGet.Config",
